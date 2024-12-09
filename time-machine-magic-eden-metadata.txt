@@ -1,0 +1,392 @@
+[
+    {
+        "id": "9b8337d5d7808390d457bfb35dd2aec0872a11ffc9be11b6a0e40699957e56f9i0",
+        "meta": {
+            "name": "Time Machine #1",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-0.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Neutrawl"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 0
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i0",
+        "meta": {
+            "name": "Time Machine #2",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-1.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Neutral"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i1",
+        "meta": {
+            "name": "Time Machine #3",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-2.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Dark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i2",
+        "meta": {
+            "name": "Time Machine #4",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-3.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Primary"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 3
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i3",
+        "meta": {
+            "name": "Time Machine #5",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-4.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Film"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 4
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i4",
+        "meta": {
+            "name": "Time Machine #6",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-5.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Minimalist"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 5
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i5",
+        "meta": {
+            "name": "Time Machine #7",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-6.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Punk"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 6
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i6",
+        "meta": {
+            "name": "Time Machine #8",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-7.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Rustic"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 7
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },{
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d1295f67c9891ede39c52ce4697873fb76fd3685f1a5480672a50e1a4dab393i7",
+        "meta": {
+            "name": "Time Machine #9",
+            "high_res_img_url": "https://harto-atelier.github.io/atlas-images-offchain/images/Atlas-8.png",
+            "attributes": [
+                {
+                    "trait_type": "Palette Type",
+                    "value": "Spark"
+                },
+                {
+                    "trait_type": "Seed",
+                    "value": 8
+                }
+            ]
+        }
+    }    
+]
